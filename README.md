@@ -13,11 +13,13 @@
     📊 Power BI Desktop – Dashboard creation & visualization
     🔄 Power Query Editor – Data cleaning & transformation
     📈 DAX (Data Analysis Expressions) – Creating KPIs, measures, and calculated columns
-    📂 Data Source 📁
+    
+📂 Data Source 📁
 
-The dataset used is the Telco Customer Churn Dataset (public dataset available on Kaggle).
+    The dataset used is the Telco Customer Churn Dataset (public dataset available on Kaggle).
 
-    🔍 Dataset Includes:
+🔍 Dataset Includes:
+
         👤 Customer demographics
         📄 Account information
         🌐 Services subscribed
