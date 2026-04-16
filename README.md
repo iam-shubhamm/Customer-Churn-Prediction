@@ -1,6 +1,11 @@
 📊 Customer Churn Analysis Dashboard (Power BI)
 
-📌 Project Title & Description :
+NOTE: 
+
+        This dashboard was created using Power BI. As I do not have a business account required
+        for online deployment, I  have included screenshots below to showcase the dashboard.
+
+📌 Project Description :
 
     Customer churn is a critical challenge for telecom companies 📉, as losing customers directly
     impacts revenue, profitability, and long-term growth. This project focuses on analyzing
